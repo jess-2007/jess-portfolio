@@ -30,6 +30,6 @@ export const projects: Project[] = [
       "A modern, responsive portfolio built with Next.js and Tailwind CSS. Designed for easy integration with Supabase for dynamic project and contact data.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
     githubUrl: "#",
-    liveUrl: "#",
+    liveUrl: "https://jess-portfolio-three.vercel.app/",
   },
 ];

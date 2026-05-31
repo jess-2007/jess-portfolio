@@ -48,21 +48,22 @@ const certifications: Certification[] = [
     title: "Privacy and Security in Online Social Media",
     organization: "NPTEL (IIT Madras)",
     dateEarned: "December 2025 ",
-    certificateUrl: "#",
+    certificateUrl: "https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc25-cs117",
   },
   {
     id: "7",
     title: "Industry 4.0 and Internet of Things",
     organization: "NPTEL (IIT Madras)",
     dateEarned: "April 2026",
-    certificateUrl: "https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-apr26/final/regular/noc26-cs38/NOC26CS38S118581406704570845.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcs-cert-signer%40nptel-exam.iam.gserviceaccount.com%2F20260531%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260531T140316Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=996bdad74d19327e8b2b8684cf741aad1ed4d3e72aabc01a07fab842eeca65e13907f9280c65623415a8bded20871c76435f48c85f100020d653ae0e98002f86c078f8891e9ae91bc346faca82eb565a4eaa08c451c3dcf507fc90650e36cc608480b7336b0d648ee87579df3bd71505364e99cd006295d9c5d4e9c0a29dca49cae45d26860d92c9edf5fbb8d91679fe71e5e0d7ffb5792ffcaecdb52f29280cb934f12fde9c3120d5b559a8ebc3dd3b837d6279b22ce0738f2e7e3855074a9756fcba896053645c8d0fd150cf0192c79f6e6b42f395ff6ceae6bfdca6adb199588c0c429b1ed29b59214d2bd0d7903f123aac667a2043077f6e180221b23a76",
+    certificateUrl: "https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc26-cs38",
+
   },
   {
     id: "8",
     title: "Human Computer Interaction",
     organization: "NPTEL (IIT Madras)",
     dateEarned: "April 2026",
-    certificateUrl: "https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-apr26/final/regular/noc26-cs70/NOC26CS70S75030663504570845.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcs-cert-signer%40nptel-exam.iam.gserviceaccount.com%2F20260531%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260531T140453Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=d29e5e23133e8b87488f70415bf49ed7cf67601aa8e05e94f713e85ed3f4124da482946d63d6affa948b29f81e815f163e300bfe71fa4a16a4d5f8be600966a8e16da4de0be1eb4641b75d7f5bb98852df99953f2f21216857db8d2a7728c05b1a0cc30136f02405552fcf014910524248e33458f21deb2f729c615b87129cfb76b473f50a4fb5074c325a522b5df85a3af66a76f57dd51b5b4e6acd30bc55b4153fd1d185ede0789c5a2906f252a0382856918d72790a15693545df4b4792b6231053ef4f2053db75c64aa2884bf85e6e4b4af0e6f9db2ed9007b4415cb8846ff89f94392c772d3fa0fd4d2eea5044cd50ef40d19b0ad56150887b3394498a5",
+    certificateUrl: "https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc26-cs70",
   },
   {
     id: "9",
